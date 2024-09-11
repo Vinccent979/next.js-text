@@ -1,0 +1,2 @@
+# next.js-text
+texy
